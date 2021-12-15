@@ -1,3 +1,6 @@
+pip
 flask
-Flask-SQLAlchemy
-flask-login
+numpy
+hdbcli
+nelson_siegel_svensson
+matplotlib
